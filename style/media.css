@@ -1,0 +1,12 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+}
+@media (max-width: 375px) {
+  button {
+    padding: 10px 20px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
